@@ -1,1 +1,1 @@
-hello ck
+这是一个JavaScript实现的导览图轮播特效
